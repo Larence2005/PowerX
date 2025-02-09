@@ -69,7 +69,7 @@ PowerX includes **33 simplified Windows commands** across various categories:
 1. Download the PowerX script:
    ```powershell
    mkdir PowerX
-   git clone https://github.com/Larence2005/PowerX
+   git clone https://github.com/Larence2005/PowerX.git
    ```
 3. Open PowerX.ps1 as Administrator.
    
@@ -77,7 +77,7 @@ PowerX includes **33 simplified Windows commands** across various categories:
 1. Download the PowerX script:
    ```powershell
    mkdir PowerX
-   git clone https://github.com/Larence2005/PowerX
+   git clone https://github.com/Larence2005/PowerX.git
    ```
 3. Open PowerShell as Administrator.
 4. Navigate to the script directory:
