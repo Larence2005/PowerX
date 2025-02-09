@@ -1,6 +1,8 @@
 # PowerX
 
-PowerX is a powerful PowerShell-based multi-tool designed to simplify Windows command execution. It allows users to analyze networks, retrieve system information and stored Wi-Fi passwords, and fix critical files to maintain system security and integrity.
+PowerX is a simple PowerShell-based multi-tool designed to simplify Windows command execution. It allows users to analyze networks, retrieve system information and stored Wi-Fi passwords, and fix critical files to maintain system security and integrity.
+
+![1](https://github.com/user-attachments/assets/b7a50ae0-d504-437e-90e8-a6a0dd9e961a)
 
 ## Features
 
@@ -14,6 +16,9 @@ PowerX includes **33 simplified Windows commands** across various categories:
 - Display ARP table
 - Release & renew IP
 - Display network statistics
+  
+![3](https://github.com/user-attachments/assets/fabba575-cba0-4164-90f2-3dba037be62c)
+
 
 ### System Information
 - Display system details
