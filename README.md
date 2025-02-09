@@ -1,6 +1,6 @@
 # PowerX
 
-PowerX is a powerful PowerShell-based multi-tool designed to simplify Windows command execution. It allows users to analyze networks, retrieve system information and Wi-Fi stored passwords, fix critical files to maintain system security and integrity.
+PowerX is a powerful PowerShell-based multi-tool designed to simplify Windows command execution. It allows users to analyze networks, retrieve system information and stored Wi-Fi passwords, and fix critical files to maintain system security and integrity.
 
 ## Features
 
