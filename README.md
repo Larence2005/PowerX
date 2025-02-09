@@ -51,17 +51,25 @@ PowerX includes **33 simplified Windows commands** across various categories:
 2. Open PowerX.exe as Administrator.
 
 ### Option 2
-1. Download the PowerX script from the [GitHub repository](https://github.com/Larence2005/PowerX).
-2. Open PowerX.ps1 as Administrator.
+1. Download the PowerX script:
+   ```powershell
+   mkdir PowerX
+   git clone https://github.com/Larence2005/PowerX
+   ```
+3. Open PowerX.ps1 as Administrator.
    
 ### Option 3
-1. Download the PowerX script from the [GitHub repository](https://github.com/Larence2005/PowerX).
-2. Open PowerShell as Administrator.
-3. Navigate to the script directory:
+1. Download the PowerX script:
+   ```powershell
+   mkdir PowerX
+   git clone https://github.com/Larence2005/PowerX
+   ```
+3. Open PowerShell as Administrator.
+4. Navigate to the script directory:
    ```powershell
    cd path\to\PowerX
    ```
-4. Run the script:
+5. Run the script:
    ```powershell
    .\PowerX.ps1
    ```
