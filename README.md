@@ -28,16 +28,22 @@ PowerX includes **33 simplified Windows commands** across various categories:
 - Display boot configuration
 - View environment variables
 
-### Wi-Fi Management
+![4](https://github.com/user-attachments/assets/7f31810f-b329-41e7-b714-da1a09816bbf)
+
+### Wi-Fi
 - Show Wi-Fi profiles
 - Retrieve Wi-Fi passwords
 - Disconnect from Wi-Fi
+
+![6](https://github.com/user-attachments/assets/deb8086e-162e-4943-ba2d-fed6549a1642)
 
 ### File Fixer
 - Run System File Checker (SFC)
 - Execute Check Disk (chkdsk)
 - Repair system image (DISM)
 - Fix boot configuration
+
+![7](https://github.com/user-attachments/assets/9f0f8789-729d-443d-affc-b0de389d181d)
 
 ### Security & Access
 - Enable/disable firewall
@@ -46,9 +52,13 @@ PowerX includes **33 simplified Windows commands** across various categories:
 - Display open ports
 - View user accounts
 
-### Advanced Commands
+![8](https://github.com/user-attachments/assets/0e7a94f0-c316-4482-be9e-0cebb0f4e707)
+
+### Advance
 - Query/start/stop Windows services
 - Query/add/delete registry keys
+
+![9](https://github.com/user-attachments/assets/e64229a5-d8e1-4cf8-aa7d-4340506e7bbc)
 
 ## Installation
 ### Option 1
