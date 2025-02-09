@@ -138,6 +138,6 @@ ps2exe "PowerX.ps1" "PowerX.exe" -noConsole -x64 -icon "icon.ico"
 
 ### Developer
 **John Larence Lusaya**
-
+Visit my [website](https://johnlarencelusaya.lovable.app/)
 Buy me a coffee:
 **Bitcoin:** `bc1qayxlfxvyjcspkq85fjh454hlpcgsqaclvus33d`
