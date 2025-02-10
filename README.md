@@ -62,8 +62,8 @@ PowerX includes **33 simplified Windows commands** across various categories:
 
 ## Installation
 ### Option 1
-1. Download the PowerX: [PowerX v1.0.0.zip](https://github.com/user-attachments/files/18725444/PowerX.v1.0.0.zip)
-2. Open PowerX.exe as Administrator.
+1. Download the PowerX from the [Releases](https://github.com/Larence2005/PowerX/releases)
+2. Run PowerX.exe as Administrator.
 
 ### Option 2
 1. Download the PowerX script:
