@@ -141,3 +141,6 @@ ps2exe "PowerX.ps1" "PowerX.exe" -noConsole -x64 -icon "icon.ico"
 - Visit my [website](https://johnlarencelusaya.lovable.app/)
 ### Buy me a coffee
 **Bitcoin:** `bc1qayxlfxvyjcspkq85fjh454hlpcgsqaclvus33d`
+
+## License
+This project is open-source under the MIT License. Feel free to modify and contribute!
