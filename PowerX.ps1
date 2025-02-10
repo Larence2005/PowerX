@@ -5,8 +5,8 @@ $Host.UI.RawUI.BackgroundColor = "Black"
 $Host.UI.RawUI.FontSize = 30
 $pshost = $host.UI.RawUI
 $size = $pshost.WindowSize
-$size.Width = 106  # Set width
-$size.Height = 41  # Set height
+$size.Width = 106
+$size.Height = 41
 $pshost.WindowSize = $size
 Clear-Host
 
