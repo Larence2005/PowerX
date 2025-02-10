@@ -120,13 +120,12 @@ ps2exe "C:\Scripts\PowerX.ps1" "C:\Scripts\PowerX.exe"
 
 ### Additional Options
 You can customize the conversion using various parameters:
-- **Hide PowerShell console:** `-noConsole`
 - **Set architecture:** `-x86` (32-bit) or `-x64` (64-bit)
 - **Embed an icon:** `-icon "C:\path\to\icon.ico"`
 
 Example with additional options:
 ```powershell
-ps2exe "PowerX.ps1" "PowerX.exe" -noConsole -x64 -icon "icon.ico"
+ps2exe "PowerX.ps1" "PowerX.exe" -x64 -icon "icon.ico"
 ```
 
 ### Troubleshooting
